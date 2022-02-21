@@ -1,2 +1,2 @@
 # Azure DevOps Datamouse
-Azure DevOps workshop
+Azure DevOps Workshop
