@@ -1,2 +1,2 @@
-# azure-devops-datamouse
+# Azure DevOps Datamouse
 Azure DevOps workshop
